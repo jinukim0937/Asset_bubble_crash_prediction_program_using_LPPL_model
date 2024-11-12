@@ -22,8 +22,8 @@ MATLAB, C#
 
 ## 프로그램
 
-![image_01](/Volumes/Crucial X6/이전 자료/연구과제/LPPL/쿼터백/Github/_image/image_01.jpg)
+![image_01](./_image/image_01.jpg)
 
-![image_02](/Volumes/Crucial X6/이전 자료/연구과제/LPPL/쿼터백/Github/_image/image_02.jpg)
+![image_02](./_image/image_02.jpg)
 
-![image_03](/Volumes/Crucial X6/이전 자료/연구과제/LPPL/쿼터백/Github/_image/image_03.jpg)
+![image_02](./_image/image_02.jpg)
