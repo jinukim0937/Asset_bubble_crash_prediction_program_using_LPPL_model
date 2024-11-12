@@ -1,4 +1,4 @@
-# Asset bubble crash prediction program using LPPL model
+# Asset price bubble crash prediction program using LPPL model
 
 ## 개요
 
